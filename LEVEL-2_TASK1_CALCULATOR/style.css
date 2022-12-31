@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+
+
+html, body {
+  height: 100%;
+  width: 100%;
+  background-image: url(https://media.istockphoto.com/vectors/black-metal-texture-background-vector-illustration-vector-id928819670?k=20&m=928819670&s=612x612&w=0&h=MdfjHHO2dKKURH_WIzBOdzbH0OC7pAOyAwvEDPNJdVQ=);
+  
+  
+  font-family: 'Poppins', sans-serif;
+}
+h1{
+  color:white
+}
+.button{
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbfMJpQ5WZhILjdrMQZ0PzsFY7uh5fbgbLnQK6_JVx&s);
+  padding: 20px;
+  width: 66px;
+  margin: 0px 4px;
+  border: 2px solid black;
+  border-radius: 10px;
+  
+  cursor: pointer;
+}
+
+.row{
+  margin: 8px 0px;
+  
+}
+.row input{
+  width:291px;
+  font-size: 20px;
+  margin:0;
+  padding: 10px 0px;
+  border: 2px solid black;
+  border-radius: 5px;
+}
